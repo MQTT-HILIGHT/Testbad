@@ -1,0 +1,16 @@
+{"run" : "unuse",
+"command" : "pub",
+"testclientid" : "all",
+"topic" : "work/load",
+"conip" : "127.0.0.1:8181",
+"pubclientthread" : "50",
+"pubrepeat" : "-1",
+"pubtimeinterval" : "1000",
+"message" : "32"}&
+
+# topic
+# conip : broker ip
+# pubclientthread : pub 갯 수
+# pubrepeat : 반복 수  -1은 무한
+# pubtimeinterval 1초
+# message : payload

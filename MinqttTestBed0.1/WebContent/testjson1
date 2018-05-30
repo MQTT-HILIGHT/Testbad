@@ -1,0 +1,12 @@
+{"run" : "unuse",
+"command" : "sub",
+"testclientid" : "all",
+"topic" : "test",
+"client_count" : "3",
+"conip" : "192.168.0.25:1883"}&
+{"run" : "unuse",
+"command" : "sub",
+"testclientid" : "all",
+"topic" : "test",
+"client_count" : "3",
+"conip" : "192.168.0.25:1883"}
